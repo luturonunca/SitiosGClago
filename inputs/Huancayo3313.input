@@ -1,0 +1,40 @@
+RUNNR       113000
+EVTNR       1
+NSHOW       25000
+
+PRMPAR      1
+ESLOPE      -2.7
+ERANGE      130 130
+THETAP      17 17
+PHIP        -180 180
+
+OBSLEV      331300
+ATMOSPHERE     1 Y
+MAGNET      24.965 -111.6
+FIXCHI      0.
+SEED        9429717   0   0
+SEED        4010144   0   0
+SEED        5464739   0   0
+SEED        2193586   0   0
+ECUTS       0.05 0.01 5e-05 5e-05
+
+
+MUADDI      F
+MUMULT      T
+MAXPRT      0
+ELMFLG      F   T
+LONGI       F  20.  T  T
+ECTMAP      1.E3
+
+PLOTSH      F 
+DIRECT      /home/anunez/corsika-73500/run/HUAMAXO/
+DATBAS      T
+PAROUT      T F
+ 
+
+ 
+
+ 
+
+USER        anunez
+EXIT

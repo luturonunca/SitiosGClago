@@ -1,0 +1,40 @@
+RUNNR       113012
+EVTNR       1
+NSHOW       25000
+
+PRMPAR      1
+ESLOPE      -2.7
+ERANGE      130 130
+THETAP      12.64 12.64
+PHIP        102.65 102.65
+
+OBSLEV      523000
+ATMOSPHERE     1 Y
+MAGNET      23.0386 -3.9734
+FIXCHI      0.
+SEED        8392367   0   0
+SEED        2054177   0   0
+SEED        9132983   0   0
+SEED        1716298   0   0
+ECUTS       0.05 0.01 5e-05 5e-05
+
+
+MUADDI      F
+MUMULT      T
+MAXPRT      0
+ELMFLG      F   T
+LONGI       F  20.  T  T
+ECTMAP      1.E3
+
+PLOTSH      F 
+DIRECT      /home/anunez/corsika-73500/run/Chamax/
+DATBAS      T
+PAROUT      T F
+ 
+
+ 
+
+ 
+
+USER        anunez
+EXIT
